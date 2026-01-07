@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Veritas AI - Analisador de Notícias",
+  "description": "Uma plataforma avançada de análise de notícias, tradução de discursos e análise de propostas utilizando Inteligência Artificial de última geração (Gemini 3).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
